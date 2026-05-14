@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://hellspin-aus.github.io/australia/sitemap.xml
